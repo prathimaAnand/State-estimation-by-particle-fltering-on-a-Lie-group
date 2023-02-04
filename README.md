@@ -1,1 +1,1 @@
-# State-estimation-by-particle-fltering-on-a-Lie-group
+# State estimation by particle fltering on a Lie group
